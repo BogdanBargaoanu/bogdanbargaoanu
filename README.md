@@ -2,7 +2,7 @@
 
 I'm a passionate **JavaScript** and **C#** developer with experience in building robust, scalable, and efficient solutions. I specialize in crafting seamless front-end user experiences and developing powerful back-end systems. I love tackling complex problems and continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
 
-💻 **Languages**: JavaScript, C#  
+💻 **Languages**: JavaScript, C#, SQL
 ⚙️ **Technologies**:  
 - [<img width="30" height="30" src="https://img.icons8.com/color/48/net-framework.png" alt=".NET"/>](https://dotnet.microsoft.com/) **.NET**
 - [<img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" width="30"/>](https://react.dev/) **React**  
