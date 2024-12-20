@@ -6,9 +6,9 @@ I'm a passionate **JavaScript** and **C#** developer with experience in building
 ⚙️ **Technologies**:  
 - [<img width="30" height="30" src="https://img.icons8.com/color/48/net-framework.png" alt=".NET"/>](https://dotnet.microsoft.com/) **.NET**
 - [<img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" width="30"/>](https://react.dev/) **React**
-- [<img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" alt="SQL.js" width="30"/>](https://vuejs.org/) **SQL**
 - [<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30"/>](https://nodejs.org/) **Node.js**  
 - [<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="30"/>](https://vuejs.org/) **Vue.js**
+- [<img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" alt="SQL.js" width="30"/>](https://vuejs.org/) **SQL**
 
 🚀 **Interests**: Full-stack development, software architecture, and continuous learning  
 📫 **Reach me at**: bogdanbargaonu19@gmail.com
