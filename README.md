@@ -29,6 +29,10 @@ I'm a passionate **JavaScript** and **C#** developer with experience in building
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+🔒 **Security**:
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
 🚀 **Interests**: Full-stack development, software architecture, and continuous learning  
 📫 **Reach me at**: bogdanbargaonu19@gmail.com
 
