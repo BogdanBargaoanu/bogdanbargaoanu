@@ -16,6 +16,7 @@ I'm a passionate **JavaScript** and **C#** developer with experience in building
 ⚙️ **Frameworks / libs**: 
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![DevExpress](https://img.shields.io/badge/devexpress-%23FF6600.svg?&style=for-the-badge&logo=devexpress&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
