@@ -1,6 +1,6 @@
 ### About Me 👨‍💻
 
-I'm a passionate **JavaScript** and **C#** developer with experience in building robust, scalable, and efficient solutions. I specialize in crafting seamless front-end user experiences and developing powerful back-end systems. I love tackling complex problems and continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
+I'm a passionate software developer with experience in building robust, scalable, and efficient solutions. I specialize in crafting seamless front-end user experiences and developing powerful back-end systems. I love tackling complex problems and continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
 
 💻 **Programming Languages**:<br>
 
