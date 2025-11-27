@@ -42,6 +42,7 @@ I'm a passionate software developer with experience in building robust, scalable
 
 🔒 **Security**:
 
+![OAuth](https://img.shields.io/badge/OAuth-007BFF?style=for-the-badge&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![AES](https://img.shields.io/badge/AES-008080?style=for-the-badge&logo=cryptography&logoColor=white)
 ![Rijndael](https://img.shields.io/badge/Rijndael-800080?style=for-the-badge&logo=cryptography&logoColor=white)
