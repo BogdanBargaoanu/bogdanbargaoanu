@@ -5,7 +5,7 @@ I'm a software developer who builds secure, cloud-native back-end systems and th
 🔐 **What I focus on**:
 - **Identity & Access Management** with **Duende IdentityServer** - OAuth 2.0 / OIDC flows (Authorization Code, Client Credentials), custom **extension grants**, and token issuance.
 - **ASP.NET Core Web APIs** secured with JWT bearer tokens and **policy-based authorization** (scope- and claim-driven access).
-- **Microservices & distributed systems** - independently deployable services, async **message-driven** communication (NServiceBus), and shared contract libraries.
+- **Microservices & distributed systems** - independently deployable services, async **message-driven** communication, and shared contract libraries.
 - **Azure & cloud delivery** - App Service hosting, containerized workloads, certificates / mTLS for service-to-service trust, and CI-friendly configuration.
 
 💻 **Programming Languages**:<br>
