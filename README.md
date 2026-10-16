@@ -1,6 +1,12 @@
 ### About Me 👨‍💻
 
-I'm a passionate software developer with experience in building robust, scalable, and efficient solutions. I specialize in crafting seamless front-end user experiences and developing powerful back-end systems. I love tackling complex problems and continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
+I'm a software developer who builds secure, cloud-native back-end systems and the full-stack apps around them. My core is **ASP.NET / .NET** with a strong focus on **Identity & Access Management** - OAuth 2.0 / OpenID Connect, identity servers, and token-secured APIs - delivered as **microservices** . I like turning complex security and architecture problems into clean, maintainable, scalable solutions, and I'm always expanding my skill set.
+
+🔐 **What I focus on**:
+- **Identity & Access Management** with **Duende IdentityServer** - OAuth 2.0 / OIDC flows (Authorization Code, Client Credentials), custom **extension grants**, and token issuance.
+- **ASP.NET Core Web APIs** secured with JWT bearer tokens and **policy-based authorization** (scope- and claim-driven access).
+- **Microservices & distributed systems** - independently deployable services, async **message-driven** communication (NServiceBus), and shared contract libraries.
+- **Azure & cloud delivery** - App Service hosting, containerized workloads, certificates / mTLS for service-to-service trust, and CI-friendly configuration.
 
 💻 **Programming Languages**:<br>
 
@@ -18,6 +24,10 @@ I'm a passionate software developer with experience in building robust, scalable
 ⚙️ **Frameworks / libs**: 
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Duende IdentityServer](https://img.shields.io/badge/Duende%20IdentityServer-1E1E1E?style=for-the-badge&logo=openid&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NServiceBus](https://img.shields.io/badge/NServiceBus-2E7D32?style=for-the-badge&logo=.net&logoColor=white)
 ![DevExpress](https://img.shields.io/badge/devexpress-%23FF6600.svg?&style=for-the-badge&logo=devexpress&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,6 +43,22 @@ I'm a passionate software developer with experience in building robust, scalable
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+☁️ **Cloud & Microservices**:
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2F2F2F?style=for-the-badge&logo=serverfault&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Message Bus](https://img.shields.io/badge/Message%20Bus-2E7D32?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+🔒 **Security & Identity**:
+
+![OAuth2.0](https://img.shields.io/badge/OAuth%202.0-007BFF?style=for-the-badge&logo=oauth&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![AES](https://img.shields.io/badge/AES-008080?style=for-the-badge&logo=cryptography&logoColor=white)
+![Rijndael](https://img.shields.io/badge/Rijndael-800080?style=for-the-badge&logo=cryptography&logoColor=white)
+
 🛢️ **Databases**:
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -40,21 +66,24 @@ I'm a passionate software developer with experience in building robust, scalable
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🔒 **Security**:
-
-![OAuth](https://img.shields.io/badge/OAuth-007BFF?style=for-the-badge&logo=oauth&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![AES](https://img.shields.io/badge/AES-008080?style=for-the-badge&logo=cryptography&logoColor=white)
-![Rijndael](https://img.shields.io/badge/Rijndael-800080?style=for-the-badge&logo=cryptography&logoColor=white)
-
 📦 **Containerization / DevOps**:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-🚀 **Interests**: Full-stack development, software architecture, and continuous learning  
+🚀 **Interests**: Identity & access management, cloud-native microservices on Azure, application security, software architecture, and continuous learning  
 📫 **Reach me at**: bogdanbargaonu19@gmail.com
 
+---
+
+📊 **GitHub Stats**:
+
 [![](https://github-readme-streak-stats.herokuapp.com?user=bogdanbargaoanu&theme=dracula&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=bogdanbargaoanu&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdanbargaoanu&theme=dracula&hide_border=true&layout=compact)
+
+---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bogdanbargaoanu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bogdan-bargaoanu-598478211/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bogdan.bargaoanu.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bogdanbargaoanu/)  
